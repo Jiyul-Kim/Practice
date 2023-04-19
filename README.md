@@ -1,3 +1,3 @@
 # Practice
 
-Html & CSS got to much better!!!
+개발자가 되고 싶어요

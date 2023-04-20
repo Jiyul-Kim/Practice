@@ -5,12 +5,24 @@
 /* components */
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
+@import "components/screen_header.css";
+@import "components/user-components.css";
+@import "components/badge.css";
+@import "components/new-badge.css";
+@import "components/icon-row.css";
 
 /* screens */
 @import "screens/login.css";
+@import "screens/friends.css";
+@import "screens/find.css";
+@import "screens/more.css";
 
 body{
     font-family: 'Urbanist', sans-serif;
     height: 1000vh;
+    color: #2F363E;
 }
 
+.main-screen{
+    padding: 0px var(--horizontal-space);
+}
